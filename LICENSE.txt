@@ -1,0 +1,101 @@
+RATEFINDER FREEWARE LICENSE
+Version 1.0 — Effective March 2026
+
+Copyright (c) 2026 Joshua Locsin / WILDTYPE Drones LLC
+All rights reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GRANT OF USE
+
+Permission is granted, free of charge, to any individual to download
+and use RateFinder (the "Software") for personal, non-commercial
+purposes, subject to the conditions below.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONDITIONS
+
+1. PERSONAL USE ONLY
+   The Software may be used by individuals for personal FPV rate
+   tuning. Use of the Software within a commercial training program,
+   paid coaching service, or as part of a product or service offered
+   to others requires a separate written agreement with the copyright
+   holder.
+
+2. NO REDISTRIBUTION
+   You may not redistribute, rehost, mirror, or share copies of the
+   Software installer or any component thereof. The official and only
+   authorized download source is:
+
+       https://github.com/jaydeelocs/RateFinder/releases
+       https://wildtypedrones.com/ratefinder
+
+3. NO REVERSE ENGINEERING
+   You may not decompile, disassemble, decrypt, or otherwise attempt
+   to derive the source code of the Software. You may not modify,
+   patch, or create derivative works based on the Software or any
+   portion thereof.
+
+4. NO REMOVAL OF NOTICES
+   You may not remove, obscure, or alter any copyright notice,
+   watermark, attribution, or branding displayed within the Software
+   or included in any accompanying documentation.
+
+5. NO COMMERCIAL USE
+   You may not sell, license, sublicense, or otherwise commercially
+   exploit the Software or any portion thereof without prior written
+   permission from the copyright holder.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INTELLECTUAL PROPERTY
+
+The Software, including but not limited to its source code, compiled
+binaries, algorithms, rate analysis methodology, calibration exercise
+designs, VelociDrone maps, and all associated documentation, is the
+exclusive intellectual property of Joshua Locsin / WILDTYPE Drones.
+
+The three-metric analysis framework (CPR, CMV, MDI) and the
+calibration-anchored rate recommendation algorithm are proprietary
+methods developed by the copyright holder. No license to these methods
+is granted by this agreement beyond the right to use the compiled
+Software as described above.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. THE COPYRIGHT HOLDER MAKES NO WARRANTIES
+REGARDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+NON-INFRINGEMENT. USE OF THE SOFTWARE IS AT YOUR OWN RISK.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE
+OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TERMINATION
+
+This license is effective until terminated. It terminates automatically
+if you violate any condition above. Upon termination you must destroy
+all copies of the Software in your possession.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTACT
+
+For commercial licensing, team use, partnership inquiries, or any
+questions about permitted use:
+
+    wildtypedrones@gmail.com
+    https://wildtypedrones.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
